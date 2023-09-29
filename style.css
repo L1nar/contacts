@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+}
+
+.wrapper {
+    width: 300px;
+    height: 50px;
+    background-color: white;
+}
+
+.contacts {
+    padding-bottom: 15px;
+    background-color: rgb(41, 134, 255);
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 3px;
+}
+
+.text-contacts {
+    color: white;
+    padding-top: 15px;
+    text-transform: uppercase;
+}
+
+.information {
+}
+
+.info-text {
+    margin-left: 20px;
+    font-size: 12px;
+}
+
+input {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.request {
+    padding-bottom: 15px;
+    background-color: rgb(41, 134, 255);
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 30px;
+    border-radius: 3px;
+}
+
+.request-text {
+    color: white;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.consent {
+    margin-left: 20px;
+    width: 270px;
+}
+
+.consent-text {
+    font-size: 10px;
+    color: rgba(128, 128, 128, 0.6);
+}
